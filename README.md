@@ -2,6 +2,8 @@
 
 A Streamlit application that scrapes faculty profiles from universities and extracts relevant information using LangChain and GPT-4o. The app supports batch processing of multiple URLs and persists data between sessions.
 
+This project was created using [Cursor AI](https://cursor.sh/)'s composer feature.
+
 ## Features
 
 - Batch processing of multiple faculty profile URLs
